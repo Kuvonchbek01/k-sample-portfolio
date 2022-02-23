@@ -397,6 +397,12 @@ body {
     }
 }
 
+@media (max-width:700px) {
+    .award:not(:last-child){
+        margin-bottom: 15px !important;
+    }
+}
+
 
 @media (max-width:460px) {
     .text{
