@@ -401,9 +401,15 @@ body {
     .interests p{
         text-align: justify;
     }
+
+    .awards{
+        padding-bottom: 50px;
+        padding-top: 100px;
+    }
     .awards p{
         text-align: justify;
     }
+
 
     .awards-container{
         margin-left: 0 !important;
