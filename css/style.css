@@ -337,6 +337,11 @@ body {
         padding-top: 100px;
         padding-bottom: 100px;
     }
+
+    .devider{
+        position: absolute;
+        left: 0;
+    }
 }
 
 
